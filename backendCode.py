@@ -1,5 +1,5 @@
 # from pyscript import document as doc
-# print("Hello World in console from app.py file") 
+# print("Hello World in console from app.py file")  
 
 # outputDiv = doc.querySelector('#textarea')
 # outputDiv.innerText = 'Hello World from app. py file'
